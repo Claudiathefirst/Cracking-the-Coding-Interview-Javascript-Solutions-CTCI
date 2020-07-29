@@ -1,5 +1,5 @@
 # Source
-- Taken from
+- Forked from
 Aryeh Harris https://github.com/harryttd/Cracking-the-Coding-Interview-Javascript-Solutions-CTCI WHO IS ALSO AN FSA ALUM!!!!!
 
 # Solutions to CTCI
