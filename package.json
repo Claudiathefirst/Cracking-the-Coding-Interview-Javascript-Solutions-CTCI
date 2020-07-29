@@ -8,9 +8,9 @@
     "ch02" : "nodemon ./node_modules/.bin/mocha ./questions-specs/chapter02-linkedLists",
     "ch03": "nodemon ./node_modules/.bin/mocha ./questions-specs/chapter03-stacks-queues/",
     "ch04":"nodemon ./node_modules/.bin/mocha ./questions-specs/chapter04-trees-graphs/",
-    "ch08": "nodemon ./node_modules/.bin/mocha ./questions-specs/chapter08-recursion-and-dynamic-programming/",
-    "ch16": "nodemon ./node_modules/.bin/mocha ./questions-specs/chapter16-moderate/",
-    "test": "nodemon ./node_modules/.bin/mocha ./questions-specs/"
+    "misc": "nodemon ./node_modules/.bin/mocha ./misc",
+    "sorting": "nodemon ./node_modules/.bin/mocha ./misc/sorting/",
+
   },
   "keywords": [
     "Cracking the Coding Interview",
