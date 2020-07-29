@@ -9,7 +9,7 @@
     "ch03": "nodemon ./node_modules/.bin/mocha ./questions-specs/chapter03-stacks-queues/",
     "ch04":"nodemon ./node_modules/.bin/mocha ./questions-specs/chapter04-trees-graphs/",
     "misc": "nodemon ./node_modules/.bin/mocha ./misc",
-    "sorting": "nodemon ./node_modules/.bin/mocha ./misc/sorting/",
+    "sorting": "nodemon ./node_modules/.bin/mocha ./misc/sorting/"
 
   },
   "keywords": [
