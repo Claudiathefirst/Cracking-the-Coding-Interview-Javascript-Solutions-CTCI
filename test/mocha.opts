@@ -1,2 +1,2 @@
-**/*.spec.js
+*.spec.js
 --require=babel-register
