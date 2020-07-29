@@ -12,5 +12,7 @@ Aryeh Harris https://github.com/harryttd/Cracking-the-Coding-Interview-Javascrip
 
 # More info
 
+- MAKE SURE TO EXPORT YOUR FUNCTIONS IN ORDER FOR THE TESTS TO RUN PROPERLY
 - There are test specs for most of the questions here take a look through the files and use CTCI to follow along.
 - I hope this helps!
+
